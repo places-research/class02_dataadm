@@ -1,0 +1,21 @@
+---
+title: "swirl_class"
+output: html_documents
+---
+
+# Swirl
+## Swirl
+### Swirl
+
+[Arquivo](https://www.dropbox.com/s/cub7xyithklvu8t/R_business.swc?dl=0)
+
+```{r eval=FALSE, message=FALSE, warning=FALSE, include=TRUE}
+install.packages("swirl")
+library(swirl)
+install_course()
+swirl()
+```
+
+Renata em **encontro** _encontro_   
+
+- sdnakfhoihgr
